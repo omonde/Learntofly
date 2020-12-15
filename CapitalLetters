@@ -1,0 +1,9 @@
+name = input("Name: ")
+surname = input("Surname: ")
+
+name = name.capitalize()
+name = name.title()
+
+surname = surname.title()
+
+print(name, surname)
